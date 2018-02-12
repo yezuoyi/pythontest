@@ -1,0 +1,5 @@
+hostName: 172.18.2.21
+dataBase: omniv5_wms
+userName: omniv5
+password: ABCabc123
+tables: ['outboundorder', 'osoorder','offshelforder','rmaorder','revorder']
